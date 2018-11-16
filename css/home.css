@@ -1,0 +1,36 @@
+body{
+    width: 100%;
+    background:#f9ca36 url("../images/bg.jpg") no-repeat top/contain;
+}
+img{
+    display: block;
+    width: 100%;
+}
+.NationalDay_H_modC .banner{
+    position: relative;
+    width: 100%;
+    font-size: 0;
+}
+.NationalDay_H_modC .pop_1{
+    position: absolute;
+    top: 8rem;
+    left:5rem;
+    width: 5rem;
+    font-size: 0.56rem;
+    color: #000;
+    text-align: center;
+}
+.NationalDay_H_modC .pop_2{
+    font-size:0.52rem;
+    font-weight: bold;
+    text-align: center;
+}
+.NationalDay_H_modC .btn_groups a{
+    display: block;
+    width:11.96rem;
+    height:2.56rem ;
+    margin: auto;
+}
+.NationalDay_H_modC .btn_groups a:nth-of-type(1){
+    margin: 0.4rem auto;
+}
